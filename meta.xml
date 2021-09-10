@@ -1,0 +1,9 @@
+<meta>
+    <min_mta_version client="1.3.0-9.04431" />
+    <script src='cSalon.lua' type='client' cache='false' />
+    <script src='sSalon.lua' type='server' />
+
+    <file src='bg.png' />
+    <file src='normal.ttf' />
+    <file src='logo_bg.png' />
+</meta>
